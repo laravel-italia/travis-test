@@ -16,7 +16,7 @@ class CalculationsTest extends TestCase
     public function testAdd()
     {
         $this->assertEquals(
-          4,
+          5,
           2 + 2
         );
     }
